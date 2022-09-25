@@ -148,7 +148,7 @@ int main()
 
 
 ### CIRCUIT DIAGRAM:
-![Screenshot (161)](https://user-images.githubusercontent.com/93901857/192138557-505977aa-2e5e-47c3-ba69-793dabcb7d8b.png)![Screenshot (158)](https://user-images.githubusercontent.com/93901857/192138591-aefa2962-f664-42ef-8bf4-195a9dfdf3eb.png)
+![Screenshot (161)](https://user-images.githubusercontent.com/93901857/192138557-505977aa-2e5e-47c3-ba69-793dabcb7d8b.png)
 
  
 ## Result :
